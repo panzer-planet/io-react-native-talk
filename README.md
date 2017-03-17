@@ -161,12 +161,16 @@ str += " world"
 * Knowledge not essential but helpful
 
 ## Environments
-####[JavaScriptCore](https://developer.apple.com/reference/javascriptcore)
+
+#### [JavaScriptCore](https://developer.apple.com/reference/javascriptcore)
 On iOS and Android, hardware and simulator the bundle is executed on JavaScriptCore.
-####[V8](https://developers.google.com/v8/)
+#### [V8](https://developers.google.com/v8/)
 When debugging through chrome (I no recommend), the javascript will be executed on V8.
 
-#### Android API
+#### [Android API](https://developer.android.com/guide/index.html)
 *[JRE](http://www.oracle.com/technetwork/java/javase/documentation/index.html)
 *[Comparison of Java and Android API](https://en.wikipedia.org/wiki/Comparison_of_Java_and_Android_API)
-*[Android API](https://developer.android.com/guide/index.html)
+
+#### [iOS](https://developer.apple.com/library/content/documentation/iPhone/Conceptual/iPhoneOSProgrammingGuide/Introduction/Introduction.html#//apple_ref/doc/uid/TP40007072)
+* Build setup using Xcode through GUI
+* Native code written in Objective-C / Swift
