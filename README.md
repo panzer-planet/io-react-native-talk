@@ -16,10 +16,10 @@ Java build system used for android
 import groovy.json.JsonSlurper
 def packageSlurper = new JsonSlurper()
 def packageJson = packageSlurper.parse file('../../package.json')
-println "Building Lifekeyrn v"+packageJson.version
+println "Building App v"+packageJson.version
 // ......
 defaultConfig {
-    applicationId "com.lifekeyrn"
+    applicationId "com.myapp"
     minSdkVersion 16
     targetSdkVersion 22
     versionCode 1
