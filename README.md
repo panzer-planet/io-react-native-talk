@@ -1,4 +1,4 @@
-# io-react-native-talk
+# IO React Native Talk
 
 ## Build tools / Dependency management
 #### [yarn](https://yarnpkg.com/en/) (or npm)
