@@ -122,7 +122,7 @@ const element = (
 * Created in 1984
 * Superset of C
 * licensed by NeXT in 1988 who added support for it to gcc
-* can be compiled with llvm, gcc or clang (but Xcode will handle that)
+* can be compiled with llvm or gcc (but Xcode will handle that)
 * wacky syntax
 C
 ```c
